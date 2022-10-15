@@ -1,0 +1,2 @@
+Best explanation - https://www.youtube.com/watch?v=-L-WgKMFuhE Sebastian Lague
+http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html#:~:text=A*%27s%20Use%20of%20the%20Heuristic%23&text=The%20lower%20h(n)%20is,else%2C%20making%20it%20very%20fast.
